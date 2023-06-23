@@ -1,0 +1,23 @@
+Ejecuta el programa en un entorno de desarrollo en línea o en tu propia computadora.
+
+Aparecerá un menú con la leyenda "Calculadora de permutaciones, combinaciones y coeficientes binomiales". Este programa te permitirá obtener los resultados de estos problemas matemáticos.
+
+El programa te solicitará que ingreses el valor de 'n'. En este contexto, 'n' representa un número entero sobre el cual deseas calcular las permutaciones y combinaciones.
+
+Después de ingresar un número entero para 'n', presiona Enter para continuar con el programa.
+
+A continuación, el programa te pedirá que ingreses el valor de 'r'. En este caso, 'r' también es un número entero y representa el segundo parámetro necesario para calcular permutaciones y combinaciones.
+
+Después de ingresar el valor de 'r', presiona Enter para proceder con el cálculo.
+
+El programa realizará los cálculos necesarios para obtener las permutaciones y combinaciones correspondientes a los valores de 'n' y 'r' que proporcionaste.
+
+Verás los resultados mostrados en la pantalla. Las permutaciones se indicarán como 'P' seguido del valor calculado, y las combinaciones se mostrarán como 'C' seguido del valor correspondiente.
+
+Examina los resultados obtenidos y comprueba si están de acuerdo con tus expectativas.
+
+Puedes ejecutar el programa nuevamente con diferentes valores de 'n' y 'r' si deseas realizar más cálculos.
+
+Una vez que hayas terminado de utilizar el programa, puedes cerrarlo o finalizar la ejecución en el entorno de desarrollo en línea.
+
+Recuerda que 'n' y 'r' son variables que representan números enteros. 'n' se utiliza para calcular el factorial y 'r' se utiliza para determinar las combinaciones posibles. Al proporcionar los valores correctos para 'n' y 'r', obtendrás los resultados deseados de las permutaciones y combinaciones.
